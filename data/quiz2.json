@@ -1,0 +1,107 @@
+{
+    "name": "Quiz 2 - La fabrication d'un emballage",
+    "questions": [
+        {
+            "name": "Qu’est-ce qu’une ressource naturelle ?",
+            "answers": [
+                {
+                    "name": "De la matière que l’on puise dans la nature",
+                    "score": 1
+        },
+                {
+                    "name": "Un produit qu’on peut facilement acheter partout",
+                    "score": 0
+        },
+                {
+                    "name": "Une source inépuisable",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Le carton est fabriqué à partir :",
+            "answers": [
+                {
+                    "name": "Du pétrole",
+                    "score": 0
+        },
+                {
+                    "name": "De copeaux de bois",
+                    "score": 1
+        },
+                {
+                    "name": "Du sable",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Pour fabriquer du verre…",
+            "answers": [
+                {
+                    "name": "On utilise le sable des plages",
+                    "score": 0
+        },
+                {
+                    "name": "On extrait un sable spécial dans des carrières",
+                    "score": 1
+        },
+                {
+                    "name": "On prend du sable dans le bac à sable",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Pour fabriquer de l’acier, on extrait de certaines roches :",
+            "answers": [
+                {
+                    "name": "Du pétrole",
+                    "score": 0
+        },
+                {
+                    "name": "De l’argent",
+                    "score": 0
+        },
+                {
+                    "name": "Du fer",
+                    "score": 1
+        }
+      ]
+    },
+        {
+            "name": "Parmi ces éléments, lequel n’est pas une ressource naturelle ?",
+            "answers": [
+                {
+                    "name": "Le plastique",
+                    "score": 1
+        },
+                {
+                    "name": "Le sable",
+                    "score": 0
+        },
+                {
+                    "name": "L’eau",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "De quelle ressource naturelle est issu le plastique ?",
+            "answers": [
+                {
+                    "name": "Du pétrole",
+                    "score": 1
+        },
+                {
+                    "name": "De l’eau",
+                    "score": 0
+        },
+                {
+                    "name": "De la bauxite",
+                    "score": 0
+        }
+      ]
+    }
+  ]
+}

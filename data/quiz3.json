@@ -1,0 +1,108 @@
+{
+    "name": "Quiz 3 - Le parcours d'un emballage trié",
+    "questions": [
+        {
+            "name": "Qui est le premier maillon de la chaîne du tri ?",
+            "answers": [
+                {
+                    "name": "Le rippeur qui ramasse les poubelles",
+                    "score": 0
+        },
+                {
+                    "name":"Celui qui trie ses emballages",
+                    "score": 1
+        },
+                {
+                    "name": "Un opérateur au centre de tri",
+                    "score": 0
+        }
+       ]
+    },    
+        {
+            "name": "On peut fabriquer un tee-shirt à partir de :",
+            "answers": [
+                {
+                    "name": "6 bouteilles en plastique",
+                    "score": 1
+        },
+                {
+                    "name":"18 boîtes à chaussures en carton",
+                    "score": 0
+        },
+                {
+                    "name": "31 briques de lait en carton",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Qu’est-ce qu’un « rippeur » ?",
+            "answers": [
+                {
+                    "name": "Un camion-benne dans lequel sont transportés les emballages",
+                    "score": 0
+        },
+                {
+                    "name": "Un agent de collecte ou éboueur",
+                    "score": 1
+        },
+                {
+                    "name": "Un chanteur de hip-hop",
+                    "score": 0
+        }            
+      ]
+    },
+        {
+            "name": "Au centre de tri, les emballages sont…",
+            "answers": [
+                {
+                    "name": "Séparés manuellement et avec des machines par famille de matériaux",
+                    "score": 1
+        },
+                {
+                    "name": "Séparés en fonction de leur couleur",
+                    "score": 0
+        },
+                {
+                    "name": "Brûlés dès leur arrivée",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Le verre est collecté :",
+            "answers": [
+                {
+                    "name": "Dans des camions spéciaux",
+                    "score": 1
+        },
+                {
+                    "name": "Dans les camions-benne des ordures ménagères",
+                    "score": 0
+        },
+                {
+                    "name": "Dans des bus",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Qu’achète le recycleur ?",
+            "answers": [
+                {
+                    "name": "Il achète des vélos",
+                    "score": 0
+        },
+                {
+                    "name": "Il achète des emballages non triés",
+                    "score": 0
+        },
+                {
+                    "name": "Il achète des emballages triés",
+                    "score": 1
+        }
+      ]
+    }
+  ]
+}    
+

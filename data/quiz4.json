@@ -1,0 +1,56 @@
+{
+    "name": "Quiz 4 - Les bénéfices du recyclage",
+    "questions": [
+        {
+            "name": "Recycler c’est …",
+            "answers": [
+                {
+                    "name": "Tout mettre dans une même poubelle pour ne pas laisser traîner les déchets",
+                    "score": 0
+        },
+                {
+                    "name": "Récupérer et transformer la matière dont sont faits les emballages pour en faire de nouveaux objets",
+                    "score": 1
+        },
+                {
+                    "name": "Ne rien jeter et garder tous les emballages",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Le recyclage permet notamment d’éviter les pollutions dues :",
+            "answers": [
+                {
+                    "name": "A l’extraction des ressources naturelles",
+                    "score": 1
+        },
+                {
+                    "name": "Aux papiers jetés par terre",
+                    "score": 0
+        },
+                {
+                    "name": "Aux produits chimiques",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Pour que les emballages soient recyclés, il faut :",
+            "answers": [
+                {
+                    "name": "Qu’ils soient bien triés",
+                    "score": 1
+        },
+                {
+                    "name": "Qu’ils soient tous jetés dans la poubelle des ordures ménagères",
+                    "score": 0
+        },
+                {
+                    "name": "Qu’ils soient bien pliés",
+                    "score": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+    "name": "Quiz 1 - Notre façon de vivre évolue",
+    "questions": [
+        {
+            "name": "A quoi sert un emballage ?",
+            "answers": [
+                {
+                    "name": "Il contient, protège et informe sur les produits",
+                    "score": 1
+        },
+                {
+                    "name": "Il sert à cacher le produit",
+                    "score": 0
+        },
+                {
+                    "name": "A rien, l’emballage est inutile",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Quelle est la règle des « 3R » ?",
+            "answers": [
+                {
+                    "name": "Rétrécir, Réutiliser, Revendre",
+                    "score": 0
+        },
+                {
+                    "name": "Ramasser, Rapporter, Recomposer",
+                    "score": 0
+        },
+                {
+                    "name": "Réduire, Réutiliser, Recycler",
+                    "score": 1
+        }
+      ]
+    },
+        {
+            "name": "Quelle information peut-on trouver sur un emballage ?",
+            "answers": [
+                {
+                    "name": "La date limite de consommation",
+                    "score": 1
+        },
+                {
+                    "name": "La date limite de vente",
+                    "score": 0
+        },
+                {
+                    "name": "La date limite d’inscription",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Parmi ces emballages, lequel n’est pas un emballage en carton ?",
+            "answers": [
+                {
+                    "name": "La brique de lait",
+                    "score": 0
+        },
+                {
+                    "name": "La boîte de céréales",
+                    "score": 0
+        },
+                {
+                    "name": "La barquette de viande",
+                    "score": 1
+        }
+      ]
+    },
+        {
+            "name": "Pourquoi y a-t-il plus de déchets aujourd’hui ?",
+            "answers": [
+                {
+                    "name": "Parce que nous avons plus de poubelles",
+                    "score": 0
+        },
+                {
+                    "name": "Parce que nous sommes de plus en plus nombreux sur la Terre et que nous achetons plus de produits emballés",
+                    "score": 1
+        },
+                {
+                    "name": "Parce que les emballages sont jolis",
+                    "score": 0
+        }
+      ]
+    },
+        {
+            "name": "Quel matériau se recycle à l’infini ?",
+            "answers": [
+                {
+                    "name": "Le carton",
+                    "score": 0
+        },
+                {
+                    "name": "Le plastique",
+                    "score": 0
+        },
+                {
+                    "name": "Le verre",
+                    "score": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "nat/projet5",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tchipchip",
+            "email": "natye.nat@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.10.0",
+        "slim/flash": "^0.1.0",
+        "monolog/monolog": "^1.13",
+        "slim/twig-view": "^1.2.0",
+        "shameerc/slim3-aura-di": "dev-master",
+        "jbroadway/urlify": "^1.0",
+        "swiftmailer/swiftmailer": "^6.1"
+        
+    },
+    "autoload" : {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
